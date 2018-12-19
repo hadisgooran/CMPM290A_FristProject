@@ -1,2 +1,2 @@
 # CMPM290A_FristProject
-Project 1 for CMPM 290A Immersive Analytics
+3D visualization of the locations which I spend my time at UCSC during a month. Each cylander is located at the exact location where I spent the time , and the height shows the time which I spent there.
